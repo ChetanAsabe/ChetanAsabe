@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Chetan
+
+- 🔭 I’m currently working on React Projects.
+- 🌱 I’m currently learning React, Javascript.
 
 <!--
 **ChetanAsabe/ChetanAsabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
