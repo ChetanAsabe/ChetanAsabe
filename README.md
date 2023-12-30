@@ -1,4 +1,4 @@
-Hi, I'm <h1 align="center">Chetan Asabe 👋</h1>
+<h1 align="center">Hi, I'm Chetan Asabe 👋</h1>
 
 ## About me
 
