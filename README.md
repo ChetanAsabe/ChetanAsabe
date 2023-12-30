@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chetan
+<h1 align="center">Hi, I'm Chetan Asabe</h1>
 
 - 🔭 I’m currently working on React Projects.
 - 🌱 I’m currently learning React, Javascript.
