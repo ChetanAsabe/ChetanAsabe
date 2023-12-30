@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Chetan Asabe</h1>
 
-- 🔭 I’m currently working on React Projects.
-- 🌱 I’m currently learning React, Javascript.
+## About me
+
+🌱 I’m currently learning "FullStack Development".
+
+🔭 Constantly Upgrading Myself..
 
 <!--
 **ChetanAsabe/ChetanAsabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
