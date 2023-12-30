@@ -2,7 +2,7 @@
 
 ## About me
 
-🌱 I’m currently learning "FullStack Development".
+🌱 I’m currently learning **FullStack Development**.
 
 🔭 Constantly Upgrading Myself..
 
