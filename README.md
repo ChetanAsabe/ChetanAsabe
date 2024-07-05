@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi, I'm Chetan Asabe 👋</h1> -->
-<img src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" width="30px">
+<img src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" width="50px">
 
 ```java
 Name = "Chetan Asabe"
