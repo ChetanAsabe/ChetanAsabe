@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Chetan Asabe 👋</h1>
 
+```java
+Name = "Chetan Asabe"
+Interests = []
+Languages = ["Java", "JavaScript", "TypeScript"]
+```
 
 
 <!--
