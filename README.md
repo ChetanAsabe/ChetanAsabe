@@ -3,7 +3,7 @@
 
 ```java
 Name = "Chetan Asabe"
-Interests = [Code]
+Interests = ["Coding"]
 Technologies = ["Java", "JavaScript", "TypeScript", "Angular"]
 ```
 
